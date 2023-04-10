@@ -8,7 +8,7 @@ function App() {
   
 
   return (
-    <div className="App container mx-auto">
+    <div className="App ">
       <Header></Header>
       <Outlet></Outlet>
       <Footer></Footer>

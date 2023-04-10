@@ -7,7 +7,7 @@ import Navbar from './Navbar/Navbar';
 const Header = () => {
     const [open, setOpen] =useState(false);
     return (
-        <div className={`header flex justify-between items-center py-10 relative ${open ? 'overflow-visible' : 'overflow-hidden'}`}>
+        <div className={`container px-8 md:px-32 lg:px-48 mx-auto header flex justify-between items-center py-10 relative ${open ? 'overflow-visible' : 'overflow-hidden'}`}>
             <h1 className='text-xl md:text-3xl lg:text-3xl font-extrabold'>JobExploration</h1>
             <nav className={`flex justify-center items-center md:flex lg:flex gap-4 absolute md:static lg:static duration-300  ${open ? 'top-20  right-0 w-full bg-white text-white p-8' : "top-24 -right-56"}`}> 
                 <Navbar></Navbar>

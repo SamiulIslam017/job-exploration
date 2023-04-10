@@ -20,7 +20,7 @@
       ],
       "education": "Bachelor’s degree in Computer Science, related field, or equivalent work experience.",
       "experience": "4-6 years of experience in a directly related field.",
-      "phone": "+88 011111111",
+      "phone": "",
       "email": "example@dhl.com",
       "category": [
         "Onsite",
@@ -57,7 +57,7 @@
       "id": 2,
       "job_post_name": "BACKEND DEVELOPER – PHP & Node.js",
       "company_name": "ShopFully",
-      "company_logo": "ShopFully",
+      "company_logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQO8NODR9NxriTvGS4LyxzOOii4uWePEd97255dGAwNMDx-u9rlNjNiV8a1ymwEqvCrxYk&usqp=CAU",
       "location": "100% Home Work",
       "salary": "$91.5K - $116K",
       "job_description": "Actively partecipate to team life and contribute to the developing of appropriate analysis, estimates and solutions focusing on Business needs Evolve existing solutions in order to generate new features Project and develop new cloud native application components with DevOps approach Collaborate with professional experts for the realization of innovative solutions",
@@ -73,7 +73,7 @@
       ],
       "education": "Zero degrees of separation.",
       "experience": "Experience using PHP and MVC framework(CakePHP, Laravel, Symfony, etc.)",
-      "phone": "",
+      "phone": "555-9101",
       "email": "example@shopfully.com",
       "category": [
         "Remote",
@@ -98,7 +98,7 @@
       ],
       "education": "Not Required",
       "experience": "1+ years experience with website design",
-      "phone": "",
+      "phone": "555-3434",
       "email": "example@crunchapps.com",
       "category": [
         "Onsite",
@@ -124,7 +124,7 @@
       ],
       "education": "Not required",
       "experience": "Computer Science Degree or 3+ years of web development experience.",
-      "phone": "",
+      "phone": "555-2323",
       "email": "example@vertex.com",
       "category": [
         "Remote",
