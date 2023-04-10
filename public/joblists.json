@@ -1,0 +1,159 @@
+[
+    {
+      "id": 0,
+      "job_post_name": "Front End Software Developer",
+      "company_name": "DHL eCommerce",
+      "company_logo": "https://d2q79iu7y748jz.cloudfront.net/s/_squarelogo/64x64/5452c2c617e3f8b1acc0735a3a192712",
+      "location": "UNION CITY, GA",
+      "salary": "$72.7K - $92",
+      "job_description": "The Front End Developer is responsible for using their knowledge of open-source technologies to code single-page applications (SPAs) that are highly functional and business-critical applications. Their duties include communicating with clients to identify functional and non-functional requirements, optimizing UI’s for different viewports, integrating peripherals with the UI where needed, and running tests to ensure code is consistent, secure, and optimized.",
+      "responsibility": [
+        "Produce, maintain and modify single-page applications (SPAs) using ReactJS v17+",
+        "Work with clients to develop the overall look and design of an application or website",
+        "Leverage the inbuilt React toolkit for creating frontend features",
+        "Consider security upfront for a secure user experience",
+        "Leverage the inbuilt React toolkit for creating frontend features",
+        "Create tools that enhance the user’s experience",
+        "Ensure accessibility across many platforms, including laptops and smartphones",
+        "Test for ease of use, speed and other quality factors",
+        "Perform other related duties as required"
+      ],
+      "education": "Bachelor’s degree in Computer Science, related field, or equivalent work experience.",
+      "experience": "4-6 years of experience in a directly related field.",
+      "phone": "+88 011111111",
+      "email": "example@dhl.com",
+      "category": [
+        "Onsite",
+        "Full Time"
+      ]
+    },
+    {
+      "id": 1,
+      "job_post_name": "Backend Developer",
+      "company_name": "NCube",
+      "company_logo": "https://d24osu06rda7z2.cloudfront.net/assets/images/svg/partial-logo.svg",
+      "location": "London, ECIV, UK",
+      "salary": "$98.2K - $124K",
+      "job_description": "We are looking for a skilled and experienced Backend Developer. In this role, you will be responsible for the development and maintenance of our backend services (including services in Java and Scala languages and AWS Lambda in TypeScript), automated web crawler as well as managing our AWS infrastructure using Terraform. You will participate in architectural and software development activities. The ideal candidate should be able to conduct software analysis, testing and debugging, as well as recognize and solve production and non-production application issues. We are looking for a developer already experienced in Web related technologies or willing to become an expert in Web development (backend).",
+      "responsibility": [
+        "Experience with Spring Framework (Boot)",
+        "Hands-on commercial experience with JavaScript/TypeScript (backend)",
+        "Expertise in RESTful APIs",
+        "Professional expertise in relational databases (MySql)",
+        "Hands-on experience with AWS or other cloud providers",
+        "Direct cooperation with the customer",
+        "Experience with AWS services such as SQS, Lambda, API Gateway, and S3"
+      ],
+      "education": "No Required",
+      "experience": "2+ years of hands-on commercial experience in Java backend development using Java 8+ with streams and lambdas",
+      "phone": "+380 97 982 08 07",
+      "email": "example@ncube.com",
+      "category": [
+        "Remote",
+        "Full Time"
+      ]
+    },
+    {
+      "id": 2,
+      "job_post_name": "BACKEND DEVELOPER – PHP & Node.js",
+      "company_name": "ShopFully",
+      "company_logo": "ShopFully",
+      "location": "100% Home Work",
+      "salary": "$91.5K - $116K",
+      "job_description": "Actively partecipate to team life and contribute to the developing of appropriate analysis, estimates and solutions focusing on Business needs Evolve existing solutions in order to generate new features Project and develop new cloud native application components with DevOps approach Collaborate with professional experts for the realization of innovative solutions",
+      "responsibility": [
+        "Knowledge of SQL e NoSQL databes (Mysql, MongoDB, etc.)",
+        "Ability to work with Agile methodologies",
+        "Knowledge of Node.js, preferably on AWS Lambda environment",
+        "DevOps approach",
+        "Ability to produce tested and well decoupled code and knowledge of the Design Pattern",
+        "concept",
+        "Experience in working in a distributed environment",
+        "Proven ability to communicate effectively in written form, both in Italian and English"
+      ],
+      "education": "Zero degrees of separation.",
+      "experience": "Experience using PHP and MVC framework(CakePHP, Laravel, Symfony, etc.)",
+      "phone": "",
+      "email": "example@shopfully.com",
+      "category": [
+        "Remote",
+        "Full Time"
+      ]
+    },
+    {
+      "id": 3,
+      "job_post_name": "Junior Web Developer",
+      "company_name": "Crunchapps",
+      "company_logo": "https://crunchapps.co/wp-content/themes/crunchapps/dist/images/logo-white.svg",
+      "location": "New York, NY 10014",
+      "salary": "$59.2K - $75K",
+      "job_description": "Join an Innovative Deep Learning team with the opportunity to be creative while supporting ever-changing technology.",
+      "responsibility": [
+        "Great HTML and CSS skills, experience developing web sites without templates",
+        "Graphic design experience strongly preferred",
+        "JavaScript",
+        "Good collaboration, teamwork, and learning skills",
+        "RWD",
+        "Image processing / production skills and experience with InDesign, Photoshop, and Illustrator"
+      ],
+      "education": "Not Required",
+      "experience": "1+ years experience with website design",
+      "phone": "",
+      "email": "example@crunchapps.com",
+      "category": [
+        "Onsite",
+        "Full Time"
+      ]
+    },
+    {
+      "id": 4,
+      "job_post_name": "Junior Web Developer",
+      "company_name": "Vertex US Holdings INCe",
+      "company_logo": "https://recruiting.paylocity.com/Recruiting/Jobs/GetLogoFileById?logoFileStoreId=14673927",
+      "location": "N/A",
+      "salary": "$72.9K - $92.3K",
+      "job_description": "At VertexOne, helping utilities provide the best customer service experience is what we do. It’s been in the DNA of our people since we started supporting utilities’ customer experience needs over 20 years ago. And that commitment continues to this day. The successful applicant will work with members of our development team to revolutionize the customer experience in the utility industry. This is a very exciting time to be a part of VertexOne as our company is growing to become a leader in utility-hosted solutions. We offer a competitive salary, benefits and the convenience of working remotely. We are looking for passionate innovators with strong problem-solving skills for the application development team. Applicants must have 3+ years or schooling or equivalent experience.",
+      "responsibility": [
+        "Code, test and maintain applications, web services and components in Microsoft C# and ASP.NET, and .NET Frameworks",
+        "Write scalable, maintainable code using Microsoft naming conventions and best practices.",
+        "Extensive knowledge of Object-Oriented Design, architecture and design patterns",
+        "Clarify business requirements by working with business analysts and end-users; create high-level and detailed design specifications to address user goals; formulate plans – outlining steps required to develop programs for design deliverables",
+        "Participate in peer-reviewed requirements and design",
+        "Estimate assigned work effort and be accountable for deliverables and completion dates",
+        "Require occasional overtime and travel"
+      ],
+      "education": "Not required",
+      "experience": "Computer Science Degree or 3+ years of web development experience.",
+      "phone": "",
+      "email": "example@vertex.com",
+      "category": [
+        "Remote",
+        "Full Time"
+      ]
+    },
+    {
+      "id": 5,
+      "job_post_name": "Full Stack Developer - Senior - MERN Stack",
+      "company_name": "Connect Staffing and Consulting",
+      "company_logo": "https://connectstaffing.com/wp-content/uploads/2020/06/cropped-logo-1.png",
+      "location": "North Las Vegas, NV",
+      "salary": "$101K - $128K",
+      "job_description": "Were looking for a skilled Full Stack Engineer to join our team. The ideal candidate is a talented professional with extensive technical expertise who can both work alongside a small team and independently in the creation, maintenance, and updates of MERN Stack projects. Proficiency in the basics (JavaScript, HTML, CSS) and frameworks like Express, React, and Next.js is essential to succeeding in this role.",
+      "responsibility": [
+        "Code, test and maintain applications, web services and components in Microsoft C# and ASP.NET, and .NET Frameworks",
+        "Write scalable, maintainable code using Microsoft naming conventions and best practices.",
+        "Extensive knowledge of Object-Oriented Design, architecture and design patterns",
+        "Clarify business requirements by working with business analysts and end-users; create high-level and detailed design specifications to address user goals; formulate plans – outlining steps required to develop programs for design deliverables",
+        "Participate in peer-reviewed requirements and design",
+        "Estimate assigned work effort and be accountable for deliverables and completion dates"
+      ],
+      "education": "Experience Matter",
+      "experience": "3-5 years experience as a professional developer for a company/industry",
+      "phone": "(714) 622-4494",
+      "email": "example@staffing.com",
+      "category": [
+        "Onsite",
+        "Full Time"
+      ]
+    }
+  ]

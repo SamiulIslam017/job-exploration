@@ -1,0 +1,26 @@
+[
+    {
+      "id": 0,
+      "Job_Category": "Frontend Developer",
+      "job_img": "https://cdn-icons-png.flaticon.com/512/922/922656.png?w=740&t=st=1681065189~exp=1681065789~hmac=645ecfb6a5463aeadba4843d0f0ef19b89b462b333990e5d99f7972ed8644945",
+      "total_job": 200
+    },
+    {
+      "id": 1,
+      "Job_Category": "Backend Developer",
+      "job_img": "https://cdn-icons-png.flaticon.com/512/636/636392.png?w=740&t=st=1681065304~exp=1681065904~hmac=2e4290ca88b0094ced0d558aee1014c787bb994eb319013ae4460fce2e41230d",
+      "total_job": 100
+    },
+    {
+      "id": 2,
+      "Job_Category": "Junior Developer",
+      "job_img": "https://cdn-icons-png.flaticon.com/512/922/922656.png?w=740&t=st=1681065427~exp=1681066027~hmac=447bf2e9c1b3cf439695a878774cd94d245796acec1fdbef01a13943df0819c3",
+      "total_job": 300
+    },
+    {
+      "id": 3,
+      "Job_Category": "MERN Developer",
+      "job_img": "https://cdn-icons-png.flaticon.com/512/1157/1157109.png?w=740&t=st=1681065737~exp=1681066337~hmac=e2ed3542fa74461556f3f04f16420e19916a4301b393a156371e6f1dfdf241a9",
+      "total_job": 200
+    }
+  ]
