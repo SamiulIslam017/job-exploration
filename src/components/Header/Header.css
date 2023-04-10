@@ -1,0 +1,16 @@
+.active{
+    background: linear-gradient(90deg, #7E90FE 0%, #9873FF 100%);
+    -webkit-background-clip: text;
+    -webkit-text-fill-color: transparent;
+    background-clip: text;
+    -webkit-text-fill-color: transparent;
+}
+.header nav a{
+    font-weight: 500;
+    font-size: 16px;
+    line-height: 22px;
+    color: #757575; 
+}
+.header button{
+    background: linear-gradient(90deg, #7E90FE 0%, #9873FF 100%);
+}
