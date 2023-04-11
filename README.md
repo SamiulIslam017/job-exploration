@@ -8,4 +8,4 @@ A list of Feature you will get in the project:
 * We also have some blog you can reach out maybe its will help you.
 * Without reload you access one page to another page
 
-[Live Site Link]: http://www.reddit.com 
+Live site link: http://www.reddit.com 
