@@ -35,12 +35,12 @@ const Statistics = () => {
         {
             name: 'Assignment 5',
             totalMark: 60,
-            gotMark: 43,
+            gotMark: 42,
         },
         {
             name: 'Assignment 6',
             totalMark: 60,
-            gotMark: 55,
+            gotMark: 57,
         },
         {
             name: 'Assignment 7',
@@ -63,6 +63,9 @@ const Statistics = () => {
     const avgMark = gotMarks/data.length;
     return (
         <div className='mt-12 overflow-x-scroll'>
+            <div className='background-color h-64 flex justify-center items-center mb-8'>
+                <h2 className='text-3xl font-extrabold'>Statistics Page</h2>
+            </div>
             <h2 className='text-3xl font-bold text-center mb-8'>Avg Mark : {avgMark}</h2>
 
             
