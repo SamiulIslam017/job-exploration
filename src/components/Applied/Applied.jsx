@@ -4,7 +4,7 @@ import { getShoppingCart } from '../../utils/fakeDb';
 import Respons from '../Respons/Respons';
 
 const Applied = () => {
-    const [data , useData] = useState([])
+    const [data , useData] = useState([]);
     const appliedData = useLoaderData();
 
     useEffect(()=>{
@@ -18,6 +18,8 @@ const Applied = () => {
     }
     useData(newData);
     },[])
+    
+    
     return (
         <div>
             <div className='background-color h-64 flex justify-center items-center mb-8'>
@@ -25,9 +27,13 @@ const Applied = () => {
             </div>
 
             <div className='container mx-auto px-8 md:px-32 lg:px-48 my-16 md:my-24 lg:my-24'>
-                {
+                <div className='text-right mb-5'>
+                    <button  className='py-2 px-4 text-lg font-extrabold text-white rounded-lg bg-slate-700 ml-3'>Onsite</button>
+                    <button  className='py-2 px-4 text-lg font-extrabold text-white rounded-lg bg-slate-700 ml-3'>Remote</button>
+                </div>
+                <>{
                     data.map(data => <Respons key={data.id} data={data}></Respons>)
-                }
+                }</>
             </div>
         </div>
     );
